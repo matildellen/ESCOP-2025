@@ -9,8 +9,8 @@ Matilde E. Simonetti¹, Iring Koch¹, Tanja C. Roembke¹
 ---
 ## About the Study  
 The studies in the current poster are preregistered:  
-- [Experiment 1] (https://aspredicted.org/2msb-hd77.pdf)
-- [Experiment 2]  (https://aspredicted.org/p9qj-g9g4.pdf)
+- [Experiment 1](https://aspredicted.org/2msb-hd77.pdf)
+- [Experiment 2](https://aspredicted.org/p9qj-g9g4.pdf)
   
 ## Keywords
 Eye-tracking; statistical learning; cross-situational statistical learning; language acquisition
